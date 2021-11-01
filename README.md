@@ -4,13 +4,11 @@
 
 ### Hello! I'm Xuân Chính a Front-end Developer from VietNam.
 
-<a href="https://www.linkedin.com/in/knoimessi-khoimess-437b22143/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/messi.khoi.9/">
+
+<a href="https://www.facebook.com/nguyenxuan.chinh.1004">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="www.instagram.com/heo_lun_hi/">
+<a href="https://www.instagram.com/_x.chinh_/">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
